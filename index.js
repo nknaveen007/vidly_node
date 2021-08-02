@@ -1,7 +1,6 @@
 require('express-async-errors');
 const express = require('express')
 const app = express()
-app.set("view engine", "ejs");
 
 require('./startup/logging')
 require('./startup/db')();

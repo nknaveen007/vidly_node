@@ -350,3 +350,12 @@
     '    at processTimers (node:internal/timers:499:7)',
   timestamp: '2021-08-02T11:07:57.999Z'
 }
+{
+  level: 'error',
+  message: 'Operation `genres.find()` buffering timed out after 10000ms Operation `genres.find()` buffering timed out after 10000ms',
+  stack: 'MongooseError: Operation `genres.find()` buffering timed out after 10000ms\n' +
+    '    at Timeout.<anonymous> (D:\\NK Projects\\express vidly\\node_modules\\mongoose\\lib\\drivers\\node-mongodb-native\\collection.js:197:23)\n' +
+    '    at listOnTimeout (node:internal/timers:556:17)\n' +
+    '    at processTimers (node:internal/timers:499:7)',
+  timestamp: '2021-08-02T17:38:45.534Z'
+}
