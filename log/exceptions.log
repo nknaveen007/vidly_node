@@ -1,0 +1,2263 @@
+{
+  error: ReferenceError: modele is not defined
+      at Object.<anonymous> (D:\NK Projects\express vidly\index.js:20:1)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+      at Module.load (node:internal/modules/cjs/loader:973:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+      at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+      at node:internal/main/run_main_module:17:47,
+  level: 'error',
+  message: 'uncaughtException: modele is not defined\n' +
+    'ReferenceError: modele is not defined\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\index.js:20:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)\n' +
+    '    at node:internal/main/run_main_module:17:47',
+  stack: 'ReferenceError: modele is not defined\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\index.js:20:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)\n' +
+    '    at node:internal/main/run_main_module:17:47',
+  exception: true,
+  date: 'Sat Jul 31 2021 00:11:10 GMT-0700 (Pacific Daylight Time)',
+  process: {
+    pid: 8660,
+    uid: null,
+    gid: null,
+    cwd: 'D:\\NK Projects\\express vidly',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v15.8.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'D:\\NK Projects\\express vidly\\index.js'
+    ],
+    memoryUsage: {
+      rss: 63696896,
+      heapTotal: 37814272,
+      heapUsed: 26846360,
+      external: 19594183,
+      arrayBuffers: 18529745
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 566451 },
+  trace: [
+    {
+      column: 1,
+      file: 'D:\\NK Projects\\express vidly\\index.js',
+      function: null,
+      line: 20,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1137,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 973,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 813,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'Function.executeUserEntryPoint [as runMain]',
+      line: 76,
+      method: 'executeUserEntryPoint [as runMain]',
+      native: false
+    },
+    {
+      column: 47,
+      file: 'node:internal/main/run_main_module',
+      function: null,
+      line: 17,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2021-07-31T07:11:10.365Z'
+}
+{
+  error: ReferenceError: modle is not defined
+      at Object.<anonymous> (D:\NK Projects\express vidly\index.js:20:1)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+      at Module.load (node:internal/modules/cjs/loader:973:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+      at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)
+      at node:internal/main/run_main_module:17:47,
+  level: 'error',
+  message: 'uncaughtException: modle is not defined\n' +
+    'ReferenceError: modle is not defined\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\index.js:20:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)\n' +
+    '    at node:internal/main/run_main_module:17:47',
+  stack: 'ReferenceError: modle is not defined\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\index.js:20:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12)\n' +
+    '    at node:internal/main/run_main_module:17:47',
+  exception: true,
+  date: 'Sat Jul 31 2021 00:13:24 GMT-0700 (Pacific Daylight Time)',
+  process: {
+    pid: 3940,
+    uid: null,
+    gid: null,
+    cwd: 'D:\\NK Projects\\express vidly',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v15.8.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'D:\\NK Projects\\express vidly\\index.js'
+    ],
+    memoryUsage: {
+      rss: 64040960,
+      heapTotal: 57212928,
+      heapUsed: 24392936,
+      external: 19585991,
+      arrayBuffers: 18521553
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 566586 },
+  trace: [
+    {
+      column: 1,
+      file: 'D:\\NK Projects\\express vidly\\index.js',
+      function: null,
+      line: 20,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1137,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 973,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 813,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'Function.executeUserEntryPoint [as runMain]',
+      line: 76,
+      method: 'executeUserEntryPoint [as runMain]',
+      native: false
+    },
+    {
+      column: 47,
+      file: 'node:internal/main/run_main_module',
+      function: null,
+      line: 17,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2021-07-31T07:13:24.526Z'
+}
+{
+  error: ReferenceError: route is not defined
+      at Object.<anonymous> (D:\NK Projects\express vidly\routes\image.js:8:1)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+      at Module.load (node:internal/modules/cjs/loader:973:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+      at Module.require (node:internal/modules/cjs/loader:997:19)
+      at require (node:internal/modules/cjs/helpers:92:18)
+      at Object.<anonymous> (D:\NK Projects\express vidly\startup\router.js:10:15)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+      at Module.load (node:internal/modules/cjs/loader:973:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+      at Module.require (node:internal/modules/cjs/loader:997:19)
+      at require (node:internal/modules/cjs/helpers:92:18)
+      at Object.<anonymous> (D:\NK Projects\express vidly\index.js:8:1)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14),
+  level: 'error',
+  message: 'uncaughtException: route is not defined\n' +
+    'ReferenceError: route is not defined\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\routes\\image.js:8:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\startup\\router.js:10:15)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\index.js:8:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)',
+  stack: 'ReferenceError: route is not defined\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\routes\\image.js:8:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\startup\\router.js:10:15)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\index.js:8:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)',
+  exception: true,
+  date: 'Mon Aug 02 2021 01:54:42 GMT-0700 (Pacific Daylight Time)',
+  process: {
+    pid: 9064,
+    uid: null,
+    gid: null,
+    cwd: 'D:\\NK Projects\\express vidly',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v15.8.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'D:\\NK Projects\\express vidly\\index.js'
+    ],
+    memoryUsage: {
+      rss: 67747840,
+      heapTotal: 57495552,
+      heapUsed: 27652144,
+      external: 20156034,
+      arrayBuffers: 19110734
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 745464 },
+  trace: [
+    {
+      column: 1,
+      file: 'D:\\NK Projects\\express vidly\\routes\\image.js',
+      function: null,
+      line: 8,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1137,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 973,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 813,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 997,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'node:internal/modules/cjs/helpers',
+      function: 'require',
+      line: 92,
+      method: null,
+      native: false
+    },
+    {
+      column: 15,
+      file: 'D:\\NK Projects\\express vidly\\startup\\router.js',
+      function: null,
+      line: 10,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1137,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 973,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 813,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 997,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'node:internal/modules/cjs/helpers',
+      function: 'require',
+      line: 92,
+      method: null,
+      native: false
+    },
+    {
+      column: 1,
+      file: 'D:\\NK Projects\\express vidly\\index.js',
+      function: null,
+      line: 8,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    }
+  ],
+  timestamp: '2021-08-02T08:54:42.925Z'
+}
+{
+  error: ReferenceError: conn is not defined
+      at module.exports (D:\NK Projects\express vidly\startup\db.js:10:1)
+      at processTicksAndRejections (node:internal/process/task_queues:94:5),
+  level: 'error',
+  message: 'unhandledRejection: conn is not defined\n' +
+    'ReferenceError: conn is not defined\n' +
+    '    at module.exports (D:\\NK Projects\\express vidly\\startup\\db.js:10:1)\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:94:5)',
+  stack: 'ReferenceError: conn is not defined\n' +
+    '    at module.exports (D:\\NK Projects\\express vidly\\startup\\db.js:10:1)\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:94:5)',
+  exception: true,
+  date: 'Mon Aug 02 2021 02:09:17 GMT-0700 (Pacific Daylight Time)',
+  process: {
+    pid: 8828,
+    uid: null,
+    gid: null,
+    cwd: 'D:\\NK Projects\\express vidly',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v15.8.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'D:\\NK Projects\\express vidly\\index.js'
+    ],
+    memoryUsage: {
+      rss: 69885952,
+      heapTotal: 57982976,
+      heapUsed: 23900472,
+      external: 19477863,
+      arrayBuffers: 18414718
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 746338 },
+  trace: [
+    {
+      column: 1,
+      file: 'D:\\NK Projects\\express vidly\\startup\\db.js',
+      function: 'module.exports',
+      line: 10,
+      method: 'exports',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/task_queues',
+      function: 'processTicksAndRejections',
+      line: 94,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2021-08-02T09:09:17.169Z'
+}
+{
+  error: TypeError: result.once is not a function
+      at module.exports (D:\NK Projects\express vidly\startup\db.js:10:8)
+      at processTicksAndRejections (node:internal/process/task_queues:94:5),
+  level: 'error',
+  message: 'unhandledRejection: result.once is not a function\n' +
+    'TypeError: result.once is not a function\n' +
+    '    at module.exports (D:\\NK Projects\\express vidly\\startup\\db.js:10:8)\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:94:5)',
+  stack: 'TypeError: result.once is not a function\n' +
+    '    at module.exports (D:\\NK Projects\\express vidly\\startup\\db.js:10:8)\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:94:5)',
+  exception: true,
+  date: 'Mon Aug 02 2021 02:24:15 GMT-0700 (Pacific Daylight Time)',
+  process: {
+    pid: 220,
+    uid: null,
+    gid: null,
+    cwd: 'D:\\NK Projects\\express vidly',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v15.8.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'D:\\NK Projects\\express vidly\\index.js'
+    ],
+    memoryUsage: {
+      rss: 69492736,
+      heapTotal: 57982976,
+      heapUsed: 24043376,
+      external: 19480303,
+      arrayBuffers: 18417158
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 747237 },
+  trace: [
+    {
+      column: 8,
+      file: 'D:\\NK Projects\\express vidly\\startup\\db.js',
+      function: 'module.exports',
+      line: 10,
+      method: 'exports',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/task_queues',
+      function: 'processTicksAndRejections',
+      line: 94,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2021-08-02T09:24:15.775Z'
+}
+{
+  error: TypeError: Cannot read property 'collection' of undefined
+      at new GridFSBucket (D:\NK Projects\express vidly\node_modules\mongodb\lib\gridfs-stream\index.js:50:27)
+      at module.exports (D:\NK Projects\express vidly\startup\db.js:10:15)
+      at processTicksAndRejections (node:internal/process/task_queues:94:5),
+  level: 'error',
+  message: "unhandledRejection: Cannot read property 'collection' of undefined\n" +
+    "TypeError: Cannot read property 'collection' of undefined\n" +
+    '    at new GridFSBucket (D:\\NK Projects\\express vidly\\node_modules\\mongodb\\lib\\gridfs-stream\\index.js:50:27)\n' +
+    '    at module.exports (D:\\NK Projects\\express vidly\\startup\\db.js:10:15)\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:94:5)',
+  stack: "TypeError: Cannot read property 'collection' of undefined\n" +
+    '    at new GridFSBucket (D:\\NK Projects\\express vidly\\node_modules\\mongodb\\lib\\gridfs-stream\\index.js:50:27)\n' +
+    '    at module.exports (D:\\NK Projects\\express vidly\\startup\\db.js:10:15)\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:94:5)',
+  exception: true,
+  date: 'Mon Aug 02 2021 02:27:28 GMT-0700 (Pacific Daylight Time)',
+  process: {
+    pid: 8904,
+    uid: null,
+    gid: null,
+    cwd: 'D:\\NK Projects\\express vidly',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v15.8.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'D:\\NK Projects\\express vidly\\index.js'
+    ],
+    memoryUsage: {
+      rss: 70320128,
+      heapTotal: 58544128,
+      heapUsed: 31666112,
+      external: 20475933,
+      arrayBuffers: 19411475
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 747430 },
+  trace: [
+    {
+      column: 27,
+      file: 'D:\\NK Projects\\express vidly\\node_modules\\mongodb\\lib\\gridfs-stream\\index.js',
+      function: 'new GridFSBucket',
+      line: 50,
+      method: null,
+      native: false
+    },
+    {
+      column: 15,
+      file: 'D:\\NK Projects\\express vidly\\startup\\db.js',
+      function: 'module.exports',
+      line: 10,
+      method: 'exports',
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/task_queues',
+      function: 'processTicksAndRejections',
+      line: 94,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2021-08-02T09:27:28.514Z'
+}
+{
+  error: TypeError: GridFsStorage is not a constructor
+      at Object.<anonymous> (D:\NK Projects\express vidly\routes\image.js:10:17)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+      at Module.load (node:internal/modules/cjs/loader:973:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+      at Module.require (node:internal/modules/cjs/loader:997:19)
+      at require (node:internal/modules/cjs/helpers:92:18)
+      at Object.<anonymous> (D:\NK Projects\express vidly\startup\router.js:10:15)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+      at Module.load (node:internal/modules/cjs/loader:973:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+      at Module.require (node:internal/modules/cjs/loader:997:19)
+      at require (node:internal/modules/cjs/helpers:92:18)
+      at Object.<anonymous> (D:\NK Projects\express vidly\index.js:8:1)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14),
+  level: 'error',
+  message: 'uncaughtException: GridFsStorage is not a constructor\n' +
+    'TypeError: GridFsStorage is not a constructor\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\routes\\image.js:10:17)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\startup\\router.js:10:15)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\index.js:8:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)',
+  stack: 'TypeError: GridFsStorage is not a constructor\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\routes\\image.js:10:17)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\startup\\router.js:10:15)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\index.js:8:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)',
+  exception: true,
+  date: 'Mon Aug 02 2021 02:59:41 GMT-0700 (Pacific Daylight Time)',
+  process: {
+    pid: 8024,
+    uid: null,
+    gid: null,
+    cwd: 'D:\\NK Projects\\express vidly',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v15.8.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'D:\\NK Projects\\express vidly\\index.js'
+    ],
+    memoryUsage: {
+      rss: 67862528,
+      heapTotal: 57495552,
+      heapUsed: 28059584,
+      external: 20165310,
+      arrayBuffers: 19120010
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 749363 },
+  trace: [
+    {
+      column: 17,
+      file: 'D:\\NK Projects\\express vidly\\routes\\image.js',
+      function: null,
+      line: 10,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1137,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 973,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 813,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 997,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'node:internal/modules/cjs/helpers',
+      function: 'require',
+      line: 92,
+      method: null,
+      native: false
+    },
+    {
+      column: 15,
+      file: 'D:\\NK Projects\\express vidly\\startup\\router.js',
+      function: null,
+      line: 10,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1137,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 973,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 813,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 997,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'node:internal/modules/cjs/helpers',
+      function: 'require',
+      line: 92,
+      method: null,
+      native: false
+    },
+    {
+      column: 1,
+      file: 'D:\\NK Projects\\express vidly\\index.js',
+      function: null,
+      line: 8,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    }
+  ],
+  timestamp: '2021-08-02T09:59:41.565Z'
+}
+{
+  error: TypeError: GridFsStorage is not a constructor
+      at Object.<anonymous> (D:\NK Projects\express vidly\routes\image.js:10:17)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+      at Module.load (node:internal/modules/cjs/loader:973:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+      at Module.require (node:internal/modules/cjs/loader:997:19)
+      at require (node:internal/modules/cjs/helpers:92:18)
+      at Object.<anonymous> (D:\NK Projects\express vidly\startup\router.js:10:15)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+      at Module.load (node:internal/modules/cjs/loader:973:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+      at Module.require (node:internal/modules/cjs/loader:997:19)
+      at require (node:internal/modules/cjs/helpers:92:18)
+      at Object.<anonymous> (D:\NK Projects\express vidly\index.js:8:1)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14),
+  level: 'error',
+  message: 'uncaughtException: GridFsStorage is not a constructor\n' +
+    'TypeError: GridFsStorage is not a constructor\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\routes\\image.js:10:17)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\startup\\router.js:10:15)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\index.js:8:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)',
+  stack: 'TypeError: GridFsStorage is not a constructor\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\routes\\image.js:10:17)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\startup\\router.js:10:15)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\index.js:8:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)',
+  exception: true,
+  date: 'Mon Aug 02 2021 02:59:49 GMT-0700 (Pacific Daylight Time)',
+  process: {
+    pid: 6896,
+    uid: null,
+    gid: null,
+    cwd: 'D:\\NK Projects\\express vidly',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v15.8.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'D:\\NK Projects\\express vidly\\index.js'
+    ],
+    memoryUsage: {
+      rss: 67801088,
+      heapTotal: 57495552,
+      heapUsed: 27944152,
+      external: 20187712,
+      arrayBuffers: 19142412
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 749370 },
+  trace: [
+    {
+      column: 17,
+      file: 'D:\\NK Projects\\express vidly\\routes\\image.js',
+      function: null,
+      line: 10,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1137,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 973,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 813,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 997,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'node:internal/modules/cjs/helpers',
+      function: 'require',
+      line: 92,
+      method: null,
+      native: false
+    },
+    {
+      column: 15,
+      file: 'D:\\NK Projects\\express vidly\\startup\\router.js',
+      function: null,
+      line: 10,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1137,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 973,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 813,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 997,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'node:internal/modules/cjs/helpers',
+      function: 'require',
+      line: 92,
+      method: null,
+      native: false
+    },
+    {
+      column: 1,
+      file: 'D:\\NK Projects\\express vidly\\index.js',
+      function: null,
+      line: 8,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    }
+  ],
+  timestamp: '2021-08-02T09:59:49.339Z'
+}
+{
+  error: ReferenceError: app is not defined
+      at Object.<anonymous> (D:\NK Projects\express vidly\routes\image.js:33:3)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+      at Module.load (node:internal/modules/cjs/loader:973:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+      at Module.require (node:internal/modules/cjs/loader:997:19)
+      at require (node:internal/modules/cjs/helpers:92:18)
+      at Object.<anonymous> (D:\NK Projects\express vidly\startup\router.js:10:15)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+      at Module.load (node:internal/modules/cjs/loader:973:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+      at Module.require (node:internal/modules/cjs/loader:997:19)
+      at require (node:internal/modules/cjs/helpers:92:18)
+      at Object.<anonymous> (D:\NK Projects\express vidly\index.js:8:1)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14),
+  level: 'error',
+  message: 'uncaughtException: app is not defined\n' +
+    'ReferenceError: app is not defined\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\routes\\image.js:33:3)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\startup\\router.js:10:15)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\index.js:8:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)',
+  stack: 'ReferenceError: app is not defined\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\routes\\image.js:33:3)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\startup\\router.js:10:15)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\index.js:8:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)',
+  exception: true,
+  date: 'Mon Aug 02 2021 03:03:10 GMT-0700 (Pacific Daylight Time)',
+  process: {
+    pid: 10804,
+    uid: null,
+    gid: null,
+    cwd: 'D:\\NK Projects\\express vidly',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v15.8.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'D:\\NK Projects\\express vidly\\index.js'
+    ],
+    memoryUsage: {
+      rss: 67719168,
+      heapTotal: 57495552,
+      heapUsed: 28023896,
+      external: 20165310,
+      arrayBuffers: 19120010
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 749572 },
+  trace: [
+    {
+      column: 3,
+      file: 'D:\\NK Projects\\express vidly\\routes\\image.js',
+      function: null,
+      line: 33,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1137,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 973,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 813,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 997,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'node:internal/modules/cjs/helpers',
+      function: 'require',
+      line: 92,
+      method: null,
+      native: false
+    },
+    {
+      column: 15,
+      file: 'D:\\NK Projects\\express vidly\\startup\\router.js',
+      function: null,
+      line: 10,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1137,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 973,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 813,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 997,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'node:internal/modules/cjs/helpers',
+      function: 'require',
+      line: 92,
+      method: null,
+      native: false
+    },
+    {
+      column: 1,
+      file: 'D:\\NK Projects\\express vidly\\index.js',
+      function: null,
+      line: 8,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    }
+  ],
+  timestamp: '2021-08-02T10:03:10.425Z'
+}
+{
+  error: TypeError: GridFsStorage is not a constructor
+      at Object.<anonymous> (D:\NK Projects\express vidly\routes\image.js:10:17)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+      at Module.load (node:internal/modules/cjs/loader:973:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+      at Module.require (node:internal/modules/cjs/loader:997:19)
+      at require (node:internal/modules/cjs/helpers:92:18)
+      at Object.<anonymous> (D:\NK Projects\express vidly\startup\router.js:10:15)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+      at Module.load (node:internal/modules/cjs/loader:973:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+      at Module.require (node:internal/modules/cjs/loader:997:19)
+      at require (node:internal/modules/cjs/helpers:92:18)
+      at Object.<anonymous> (D:\NK Projects\express vidly\index.js:8:1)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14),
+  level: 'error',
+  message: 'uncaughtException: GridFsStorage is not a constructor\n' +
+    'TypeError: GridFsStorage is not a constructor\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\routes\\image.js:10:17)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\startup\\router.js:10:15)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\index.js:8:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)',
+  stack: 'TypeError: GridFsStorage is not a constructor\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\routes\\image.js:10:17)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\startup\\router.js:10:15)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\index.js:8:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)',
+  exception: true,
+  date: 'Mon Aug 02 2021 03:26:07 GMT-0700 (Pacific Daylight Time)',
+  process: {
+    pid: 7304,
+    uid: null,
+    gid: null,
+    cwd: 'D:\\NK Projects\\express vidly',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v15.8.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'D:\\NK Projects\\express vidly\\index.js'
+    ],
+    memoryUsage: {
+      rss: 66670592,
+      heapTotal: 58544128,
+      heapUsed: 27630832,
+      external: 20319137,
+      arrayBuffers: 19273837
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 750949 },
+  trace: [
+    {
+      column: 17,
+      file: 'D:\\NK Projects\\express vidly\\routes\\image.js',
+      function: null,
+      line: 10,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1137,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 973,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 813,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 997,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'node:internal/modules/cjs/helpers',
+      function: 'require',
+      line: 92,
+      method: null,
+      native: false
+    },
+    {
+      column: 15,
+      file: 'D:\\NK Projects\\express vidly\\startup\\router.js',
+      function: null,
+      line: 10,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1137,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 973,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 813,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 997,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'node:internal/modules/cjs/helpers',
+      function: 'require',
+      line: 92,
+      method: null,
+      native: false
+    },
+    {
+      column: 1,
+      file: 'D:\\NK Projects\\express vidly\\index.js',
+      function: null,
+      line: 8,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    }
+  ],
+  timestamp: '2021-08-02T10:26:08.024Z'
+}
+{
+  error: ReferenceError: Image is not defined
+      at Object.<anonymous> (D:\NK Projects\express vidly\model\image.js:34:24)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+      at Module.load (node:internal/modules/cjs/loader:973:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+      at Module.require (node:internal/modules/cjs/loader:997:19)
+      at require (node:internal/modules/cjs/helpers:92:18)
+      at Object.<anonymous> (D:\NK Projects\express vidly\routes\image.js:1:28)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+      at Module.load (node:internal/modules/cjs/loader:973:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+      at Module.require (node:internal/modules/cjs/loader:997:19)
+      at require (node:internal/modules/cjs/helpers:92:18)
+      at Object.<anonymous> (D:\NK Projects\express vidly\startup\router.js:10:15)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14),
+  level: 'error',
+  message: 'uncaughtException: Image is not defined\n' +
+    'ReferenceError: Image is not defined\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\model\\image.js:34:24)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\routes\\image.js:1:28)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\startup\\router.js:10:15)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)',
+  stack: 'ReferenceError: Image is not defined\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\model\\image.js:34:24)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\routes\\image.js:1:28)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\startup\\router.js:10:15)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)',
+  exception: true,
+  date: 'Mon Aug 02 2021 03:59:37 GMT-0700 (Pacific Daylight Time)',
+  process: {
+    pid: 184,
+    uid: null,
+    gid: null,
+    cwd: 'D:\\NK Projects\\express vidly',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v15.8.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'D:\\NK Projects\\express vidly\\index.js'
+    ],
+    memoryUsage: {
+      rss: 64954368,
+      heapTotal: 55640064,
+      heapUsed: 24235784,
+      external: 19401701,
+      arrayBuffers: 18356401
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 752959 },
+  trace: [
+    {
+      column: 24,
+      file: 'D:\\NK Projects\\express vidly\\model\\image.js',
+      function: null,
+      line: 34,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1137,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 973,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 813,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 997,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'node:internal/modules/cjs/helpers',
+      function: 'require',
+      line: 92,
+      method: null,
+      native: false
+    },
+    {
+      column: 28,
+      file: 'D:\\NK Projects\\express vidly\\routes\\image.js',
+      function: null,
+      line: 1,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1137,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 973,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 813,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 997,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'node:internal/modules/cjs/helpers',
+      function: 'require',
+      line: 92,
+      method: null,
+      native: false
+    },
+    {
+      column: 15,
+      file: 'D:\\NK Projects\\express vidly\\startup\\router.js',
+      function: null,
+      line: 10,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    }
+  ],
+  timestamp: '2021-08-02T10:59:38.025Z'
+}
+{
+  error: ReferenceError: Image is not defined
+      at Object.<anonymous> (D:\NK Projects\express vidly\model\image.js:34:24)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+      at Module.load (node:internal/modules/cjs/loader:973:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+      at Module.require (node:internal/modules/cjs/loader:997:19)
+      at require (node:internal/modules/cjs/helpers:92:18)
+      at Object.<anonymous> (D:\NK Projects\express vidly\routes\image.js:1:29)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+      at Module.load (node:internal/modules/cjs/loader:973:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+      at Module.require (node:internal/modules/cjs/loader:997:19)
+      at require (node:internal/modules/cjs/helpers:92:18)
+      at Object.<anonymous> (D:\NK Projects\express vidly\startup\router.js:10:15)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14),
+  level: 'error',
+  message: 'uncaughtException: Image is not defined\n' +
+    'ReferenceError: Image is not defined\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\model\\image.js:34:24)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\routes\\image.js:1:29)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\startup\\router.js:10:15)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)',
+  stack: 'ReferenceError: Image is not defined\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\model\\image.js:34:24)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\routes\\image.js:1:29)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\startup\\router.js:10:15)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)',
+  exception: true,
+  date: 'Mon Aug 02 2021 03:59:49 GMT-0700 (Pacific Daylight Time)',
+  process: {
+    pid: 7436,
+    uid: null,
+    gid: null,
+    cwd: 'D:\\NK Projects\\express vidly',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v15.8.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'D:\\NK Projects\\express vidly\\index.js'
+    ],
+    memoryUsage: {
+      rss: 64925696,
+      heapTotal: 55377920,
+      heapUsed: 24107088,
+      external: 19429679,
+      arrayBuffers: 18384379
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 752970 },
+  trace: [
+    {
+      column: 24,
+      file: 'D:\\NK Projects\\express vidly\\model\\image.js',
+      function: null,
+      line: 34,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1137,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 973,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 813,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 997,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'node:internal/modules/cjs/helpers',
+      function: 'require',
+      line: 92,
+      method: null,
+      native: false
+    },
+    {
+      column: 29,
+      file: 'D:\\NK Projects\\express vidly\\routes\\image.js',
+      function: null,
+      line: 1,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1137,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 973,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 813,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 997,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'node:internal/modules/cjs/helpers',
+      function: 'require',
+      line: 92,
+      method: null,
+      native: false
+    },
+    {
+      column: 15,
+      file: 'D:\\NK Projects\\express vidly\\startup\\router.js',
+      function: null,
+      line: 10,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    }
+  ],
+  timestamp: '2021-08-02T10:59:49.302Z'
+}
+{
+  error: ReferenceError: Image is not defined
+      at Object.<anonymous> (D:\NK Projects\express vidly\model\image.js:34:24)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+      at Module.load (node:internal/modules/cjs/loader:973:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+      at Module.require (node:internal/modules/cjs/loader:997:19)
+      at require (node:internal/modules/cjs/helpers:92:18)
+      at Object.<anonymous> (D:\NK Projects\express vidly\routes\image.js:1:29)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+      at Module.load (node:internal/modules/cjs/loader:973:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+      at Module.require (node:internal/modules/cjs/loader:997:19)
+      at require (node:internal/modules/cjs/helpers:92:18)
+      at Object.<anonymous> (D:\NK Projects\express vidly\startup\router.js:10:15)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14),
+  level: 'error',
+  message: 'uncaughtException: Image is not defined\n' +
+    'ReferenceError: Image is not defined\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\model\\image.js:34:24)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\routes\\image.js:1:29)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\startup\\router.js:10:15)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)',
+  stack: 'ReferenceError: Image is not defined\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\model\\image.js:34:24)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\routes\\image.js:1:29)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\startup\\router.js:10:15)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)',
+  exception: true,
+  date: 'Mon Aug 02 2021 03:59:58 GMT-0700 (Pacific Daylight Time)',
+  process: {
+    pid: 9012,
+    uid: null,
+    gid: null,
+    cwd: 'D:\\NK Projects\\express vidly',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v15.8.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'D:\\NK Projects\\express vidly\\index.js'
+    ],
+    memoryUsage: {
+      rss: 65105920,
+      heapTotal: 55640064,
+      heapUsed: 24267200,
+      external: 19378215,
+      arrayBuffers: 18332915
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 752980 },
+  trace: [
+    {
+      column: 24,
+      file: 'D:\\NK Projects\\express vidly\\model\\image.js',
+      function: null,
+      line: 34,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1137,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 973,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 813,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 997,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'node:internal/modules/cjs/helpers',
+      function: 'require',
+      line: 92,
+      method: null,
+      native: false
+    },
+    {
+      column: 29,
+      file: 'D:\\NK Projects\\express vidly\\routes\\image.js',
+      function: null,
+      line: 1,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1137,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 973,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 813,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 997,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'node:internal/modules/cjs/helpers',
+      function: 'require',
+      line: 92,
+      method: null,
+      native: false
+    },
+    {
+      column: 15,
+      file: 'D:\\NK Projects\\express vidly\\startup\\router.js',
+      function: null,
+      line: 10,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    }
+  ],
+  timestamp: '2021-08-02T10:59:58.679Z'
+}
+{
+  error: ReferenceError: Image is not defined
+      at Object.<anonymous> (D:\NK Projects\express vidly\model\image.js:34:24)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+      at Module.load (node:internal/modules/cjs/loader:973:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+      at Module.require (node:internal/modules/cjs/loader:997:19)
+      at require (node:internal/modules/cjs/helpers:92:18)
+      at Object.<anonymous> (D:\NK Projects\express vidly\routes\image.js:1:29)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)
+      at Module.load (node:internal/modules/cjs/loader:973:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:813:14)
+      at Module.require (node:internal/modules/cjs/loader:997:19)
+      at require (node:internal/modules/cjs/helpers:92:18)
+      at Object.<anonymous> (D:\NK Projects\express vidly\startup\router.js:10:15)
+      at Module._compile (node:internal/modules/cjs/loader:1108:14),
+  level: 'error',
+  message: 'uncaughtException: Image is not defined\n' +
+    'ReferenceError: Image is not defined\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\model\\image.js:34:24)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\routes\\image.js:1:29)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\startup\\router.js:10:15)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)',
+  stack: 'ReferenceError: Image is not defined\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\model\\image.js:34:24)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\routes\\image.js:1:29)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1137:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:973:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:813:14)\n' +
+    '    at Module.require (node:internal/modules/cjs/loader:997:19)\n' +
+    '    at require (node:internal/modules/cjs/helpers:92:18)\n' +
+    '    at Object.<anonymous> (D:\\NK Projects\\express vidly\\startup\\router.js:10:15)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1108:14)',
+  exception: true,
+  date: 'Mon Aug 02 2021 04:00:37 GMT-0700 (Pacific Daylight Time)',
+  process: {
+    pid: 11592,
+    uid: null,
+    gid: null,
+    cwd: 'D:\\NK Projects\\express vidly',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v15.8.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'D:\\NK Projects\\express vidly\\index.js'
+    ],
+    memoryUsage: {
+      rss: 63561728,
+      heapTotal: 55640064,
+      heapUsed: 24119080,
+      external: 19575045,
+      arrayBuffers: 18529745
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 753019 },
+  trace: [
+    {
+      column: 24,
+      file: 'D:\\NK Projects\\express vidly\\model\\image.js',
+      function: null,
+      line: 34,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1137,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 973,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 813,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 997,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'node:internal/modules/cjs/helpers',
+      function: 'require',
+      line: 92,
+      method: null,
+      native: false
+    },
+    {
+      column: 29,
+      file: 'D:\\NK Projects\\express vidly\\routes\\image.js',
+      function: null,
+      line: 1,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1137,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 973,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 813,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 19,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.require',
+      line: 997,
+      method: 'require',
+      native: false
+    },
+    {
+      column: 18,
+      file: 'node:internal/modules/cjs/helpers',
+      function: 'require',
+      line: 92,
+      method: null,
+      native: false
+    },
+    {
+      column: 15,
+      file: 'D:\\NK Projects\\express vidly\\startup\\router.js',
+      function: null,
+      line: 10,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1108,
+      method: '_compile',
+      native: false
+    }
+  ],
+  timestamp: '2021-08-02T11:00:37.945Z'
+}

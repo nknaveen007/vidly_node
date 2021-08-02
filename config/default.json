@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey":"",
+    "db":"mongodb+srv://dbNaveen:nksniper007@cluster0.twfi3.mongodb.net/exercise?retryWrites=true&w=majority"
+}
