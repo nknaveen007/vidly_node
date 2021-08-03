@@ -1,15 +1,16 @@
 const express = require('express')
 const route = express()
 const {Customer,validation} = require('../model/customer')
+const auth = require('../middleware/auth')
+const admin = require('../middleware/admin')
 
-
-route.get('/', async (req, res) => {
+route.get('/',[auth,admin], async (req, res) => {
         const customer = await Customer.find({i}).sort({name:1})
         res.send(customer)
 })
 
 
-route.get('/:id', async(req, res) => {
+route.get('/:id',auth, async(req, res) => {
     const customer = await Customer.findById(req.params.id)
     if (customer) {
         res.send(customer) 
@@ -19,7 +20,7 @@ route.get('/:id', async(req, res) => {
     
 })
 
-route.post('/', async(req, res) => {
+route.post('/',[auth,admin], async(req, res) => {
     const { error } = validation(req.body)
     if (error) {
         res.status(400).send(error.details[0].message)
@@ -35,7 +36,7 @@ route.post('/', async(req, res) => {
     }
 })
 
-route.put('/:id', async(req, res) => {
+route.put('/:id',[auth,admin], async(req, res) => {
     const { error } = validation(req.body)
     if (error) {
         res.status(400).send(error.details[0].message)
@@ -55,7 +56,7 @@ route.put('/:id', async(req, res) => {
     }
 })
 
-route.delete('/:id', async(req, res) => {
+route.delete('/:id',[auth,admin], async(req, res) => {
     try {
         const customer = await Customer.findByIdAndRemove(req.params.id)
         if (customer) {

@@ -3,15 +3,17 @@ const route = express()
 const { Rentals, validation } = require('../model/rentals')
 const { Movies } = require('../model/movies')
 const { Customer } = require('../model/customer')
+const auth = require('../middleware/auth')
+const admin = require('../middleware/admin')
 
 
-route.get('/', async(req, res) => {
+route.get('/',[auth,admin], async(req, res) => {
     const rentals = await Rentals.find()
     res.send(rentals)
 })
 
 
-route.post('/', async (req, res) => {
+route.post('/',auth, async (req, res) => {
     const { error } = validation(req.body);
         
     if (error) {

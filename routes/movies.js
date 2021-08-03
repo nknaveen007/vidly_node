@@ -1,14 +1,16 @@
 const express = require('express')
 const route = express()
 const { Movies, validation } = require('../model/movies')
-const {Genre} = require('../model/genres')
+const { Genre } = require('../model/genres')
+const auth = require('../middleware/auth')
+const admin = require('../middleware/admin')
 
-route.get('/', async(req, res) => {
+route.get('/',auth, async(req, res) => {
     const movies = await Movies.find()
     res.send(movies)
 })
 
-route.get('/:id', async (req, res) => {
+route.get('/:id',auth, async (req, res) => {
 
     const movies = await Movies.findById(req.params.id)
     if (movies) {
@@ -21,7 +23,7 @@ route.get('/:id', async (req, res) => {
     
 })
 
-route.post('/', async (req, res) => {
+route.post('/',[auth,admin], async (req, res) => {
     const { error } = validation(req.body)
     if (error) {
         res.status(400).send(error.details[0].message)
@@ -47,7 +49,7 @@ route.post('/', async (req, res) => {
     
 })
 
-route.put('/:id', async (req, res) => {
+route.put('/:id',[auth,admin], async (req, res) => {
     const { error } = validation(req.body)
     if (error) {
         res.status(400).send(error.details[0].message)
@@ -71,7 +73,7 @@ route.put('/:id', async (req, res) => {
     
 })
 
-route.delete('/:id', async (req,res) => {
+route.delete('/:id',[auth,admin], async (req,res) => {
     
         const movies = await Movies.findByIdAndDelete(req.params.id)
         if (movies) {
